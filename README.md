@@ -16,7 +16,6 @@ This repo documents my **daily hands-on labs**, screenshots, and notes while pra
 | Day | Topic | Notes Link |
 |-----|--------|------------|
 | 01  | IAM User, Group, MFA | [View Notes](./Day01_IAM/summary.md) 
-|02   |
 
 ---
 
