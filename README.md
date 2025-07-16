@@ -5,7 +5,6 @@ Welcome! I'm Anshul, a B.Sc. Computer Science (Hons.) student preparing for:
 
 - ✅ AWS Certified Cloud Practitioner (Completed)
 - 🔜 AWS Solutions Architect – Associate (SAA-C03)
-- 🔐 AWS Security Specialty (starting soon)
 
 This repo documents my **daily hands-on labs**, screenshots, and notes while practicing AWS for real-world job readiness .
 
